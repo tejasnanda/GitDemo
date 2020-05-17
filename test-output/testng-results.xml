@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="236" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:35Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="236" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:35Z">
+      <class name="vase1.Sample5">
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:vase1.Sample5@55a1c291]" name="testMethod1" is-config="true" duration-ms="32" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="testgh()[pri:0, instance:vase1.Sample5@55a1c291]" name="testgh" is-config="true" duration-ms="1" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgh -->
+        <test-method status="PASS" signature="testMethod4()[pri:0, instance:vase1.Sample5@55a1c291]" name="testMethod4" is-config="true" duration-ms="2" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="zestMethod5()[pri:0, instance:vase1.Sample5@55a1c291]" name="zestMethod5" duration-ms="59" started-at="2020-05-16T19:23:34Z" finished-at="2020-05-16T19:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zestMethod5 -->
+        <test-method status="PASS" signature="testMethod4()[pri:0, instance:vase1.Sample5@55a1c291]" name="testMethod4" is-config="true" duration-ms="1" started-at="2020-05-16T19:23:35Z" finished-at="2020-05-16T19:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="aestMethod(java.lang.String, int)[pri:0, instance:vase1.Sample5@55a1c291]" name="aestMethod" duration-ms="10" started-at="2020-05-16T19:23:35Z" finished-at="2020-05-16T19:23:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[google]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aestMethod -->
+        <test-method status="PASS" signature="testMethod4()[pri:0, instance:vase1.Sample5@55a1c291]" name="testMethod4" is-config="true" duration-ms="1" started-at="2020-05-16T19:23:35Z" finished-at="2020-05-16T19:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+        <test-method status="PASS" signature="gestMethod6()[pri:0, instance:vase1.Sample5@55a1c291]" name="gestMethod6" duration-ms="9" started-at="2020-05-16T19:23:35Z" depends-on-methods="vase1.Sample5.zestMethod5" finished-at="2020-05-16T19:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gestMethod6 -->
+        <test-method status="PASS" signature="testMethod2()[pri:0, instance:vase1.Sample5@55a1c291]" name="testMethod2" is-config="true" duration-ms="2" started-at="2020-05-16T19:23:35Z" finished-at="2020-05-16T19:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+      </class> <!-- vase1.Sample5 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

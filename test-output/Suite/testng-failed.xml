@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="vase1.ListenersTestNG"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <classes>
+      <class name="vase1.Sample5">
+        <methods>
+          <include name="testMethod1"/>
+          <include name="testMethod4"/>
+          <include name="aestMethod"/>
+          <include name="testMethod2"/>
+          <include name="testgh"/>
+        </methods>
+      </class> <!-- vase1.Sample5 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
