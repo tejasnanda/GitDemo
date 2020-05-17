@@ -14,6 +14,8 @@ public class Sample1Test {
 	public void print()
 	{
 		System.out.println("print1");
+		System.out.println("GIT Comment1");
+		System.out.println("GIT Comment2");
 	}
 	
 	@Test(groups= {"smoke"})
