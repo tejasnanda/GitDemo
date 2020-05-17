@@ -9,6 +9,10 @@ public class Sample2Test {
 	public void print2()
 	{
 		System.out.println("print2");
+		System.out.println("develop");
+		System.out.println("develop");
+		System.out.println("develop");
+		System.out.println("develop");
 	}
 	
 	
